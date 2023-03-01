@@ -12,7 +12,8 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang
 
 
 # Desain Program
-![design](https://user-images.githubusercontent.com/100755457/222047574-86aa826d-1158-4003-acae-a6c360dd22e8.jpg)
+
+![design](https://user-images.githubusercontent.com/100755457/222151514-292375cf-2991-42c0-b741-404519292c52.jpg)
 
 
 
