@@ -1,5 +1,5 @@
 # design = https://app.diagrams.net/#G13r5bbv5fKjPxxxM7k3WxqE9dwUNZRemG
-"""Saya Bayu Wicaksono NIM 2106836 mengerjakan soal Latihan 3 dalam mata kuliah Desain Pemrograman Berorientasi 
+"""Saya Bayu Wicaksono NIM 2106836 mengerjakan soal Latihan 4 dalam mata kuliah Desain Pemrograman Berorientasi 
 Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin."""
 # import file
 from mahasiswa import Mahasiswa
